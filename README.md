@@ -96,9 +96,8 @@ This example application uses the following libraries
 
 
 ## Working Group Members [1MicroTeam : Bangalore : India]
-* Sha Mirza 			[Sha.Mirza@fisglobal.com]
-* Jaywant Khairner		[Jaywant.Khairnar@fisglobal.com]
-* Fahad Hashmi			[Fahad.Hashmi@fisglobal.com]
+* Sha Mirza 			[shamirza@gmail.com]
+
 
 
 
